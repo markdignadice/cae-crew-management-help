@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
 <topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
-       title="Troubleshooting" id="Troubleshooting">
+       title="Test Troubleshooting topic" id="Troubleshooting">
 
     <p>Introduction test:
         What is this topic about? What is the topic's function?...
