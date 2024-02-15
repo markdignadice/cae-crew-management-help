@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Sample-task-topic" id="Sample-task-topic">
+
+    <p>Purpose:
+        Why am I performing this task?...
+        When should I perform this task?...
+        How the task is different from other similar tasks?...
+        What is the outcome of the task? (if it is not clear in the title)...
+    </p>
+    <p>Context (optional): Information that orients the reader to the task...</p>
+    <p>Prerequisite (optional): Any requirement before the user can start this task. These are pre-conditions, but not action steps...</p>
+
+    <procedure>
+        <p>Stem sentence...</p>
+        <step>Step 1...</step>
+        <step>Step 2...</step>
+        <step>Step 3...
+            <p>Additional information (optional): Paragraph or sentence that provides essential supporting
+                information to perform the step. Such information includes notes, if-then statements or
+                decision trees, or any other essential information to enable the user to complete that step
+                more successfully.
+            </p>Step result (optional): non-intuitive or surprising result that occurs as a direct result of this step
+             being completed.
+            <p>
+            </p>
+        </step>
+        <step>Step 4...
+        <list type="alpha-lower" start="1">
+            <li>Substep 1...</li>
+            <li>Substep 2...</li>
+            <li>Substep 3...</li>
+        </list>
+        </step>
+    </procedure>
+    <p>Result (optional): The outcome of the task.</p>
+    <p>Example (optional): A demonstration of the task.</p>
+</topic>

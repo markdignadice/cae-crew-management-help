@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="CAE-Crew-Management-Help.topic">
+
+    <toc-element topic="CAE-Crew-Management-Help.topic">
+        <toc-element topic="Overview.topic">
+            <toc-element topic="System-overview.topic"/>
+        </toc-element>
+        <toc-element topic="Administration.topic"/>
+        <toc-element topic="Configure.topic"/>
+        <toc-element topic="Crew-applications.topic">
+            <toc-element topic="CrewTraining.topic">
+                <toc-element topic="Template-task-topic.topic"/>
+                <toc-element topic="Template-reference-topic.topic"/>
+                <toc-element topic="Template-concept-topic.topic"/>
+                <toc-element topic="Template-process-topic.topic"/>
+                <toc-element topic="Sample-task-topic.topic"/>
+                <toc-element topic="Test-Reference-topic.topic"/>
+            </toc-element>
+            <toc-element topic="CrewMobile.topic"/>
+            <toc-element topic="CrewPortal.topic"/>
+            <toc-element topic="CrewFollow.topic"/>
+        </toc-element>
+        <toc-element topic="Aircraft-applications.topic">
+            <toc-element topic="FlightLog-app.topic"/>
+            <toc-element topic="AircraftPortal.topic"/>
+            <toc-element topic="AircraftFollow.topic"/>
+            <toc-element topic="AircraftSchedule.topic"/>
+        </toc-element>
+        <toc-element topic="Executive-dashboard.topic"/>
+        <toc-element topic="CAE-CrewManagement-reports.topic"/>
+        <toc-element topic="Job-Engine.topic"/>
+        <toc-element topic="Regulatory-compliance-rules.topic"/>
+        <toc-element topic="Release-notes.topic">
+            <toc-element topic="CAE-Crew-Management-2023-12.topic"/>
+        </toc-element>
+        <toc-element topic="How-To-articles.topic"/>
+        <toc-element topic="Troubleshooting.topic"/>
+        <toc-element topic="Technical-guides.topic"/>
+        <toc-element topic="Support.topic"/>
+    </toc-element>
+</instance-profile>

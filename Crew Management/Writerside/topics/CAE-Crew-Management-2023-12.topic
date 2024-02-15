@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="CAE Crew Management 2023.12" id="CAE-Crew-Management-2023-12">
+
+    <p>Introduction:
+        What is this topic about? What is the topic's function?...
+        What is the topic used for?...
+        Why is this topic important?...
+    </p>
+    <p>Supporting content (optional):
+        Paragraph or sentences...
+    </p>
+
+    <p>Supporting content (optional): Images stem sentence...</p>
+    <img alt="manage-training-footprints.png" src="manage-training-footprints.png"/>
+
+    <p>Supporting content (optional): List Stem sentence</p>
+    <list>
+    <li>item 1</li>
+    <li>item 2</li>
+    <li>item 3</li>
+    </list>
+    <p>Supporting content (optional): Table stem sentence</p>
+    <table>
+        <tr><td>Element</td><td>Description</td></tr>
+        <tr><td>Element 1</td><td>Description 1</td></tr>
+        <tr><td>Element 2</td><td>Description 2</td></tr>
+        <tr><td>Element 3</td><td>Description 3</td></tr>
+    </table>
+</topic>

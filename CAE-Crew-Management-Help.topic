@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="CAE Crew Management Help" id="CAE-Crew-Management-Help">
+
+<!--    A section combines multiple topics dedicated to a specific subject.
+            Add a starting page to provide an overview of the topics in the section.
+            Start with two topics you want to promote in the <spotlight> group,
+            several important topics in the <primary> group (for example, where to start),
+            several less important topics in the <secondary> group (for example, more advanced topics),
+            and optionally add any other relevant topics in the <misc> group as cards and lists of links
+            (maybe related topics from other sections).
+            Only the spotlight section is limited to two topics.
+            For other groups, try to keep the number between 2 and 6, but you can add more if necessary.-->
+
+    <section-starting-page>
+        <title>CAE Crew Management Help</title>
+        <description>
+            Add an introductory paragraph: explain what this section is about in 2-3 short sentences.
+        </description>
+
+        <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
+        <spotlight>
+            <a href="CAE-Crew-Management-2023-12.topic" type="offer" summary="CAE Crew Management 2023.12">Latest release</a>
+            <a href="Release-notes.topic" type="branch" summary="This overrides the card summary of the topic">Previous releases</a>
+        </spotlight>
+
+        <!--    Add several topics that are most important for this section.    -->
+        <primary>
+            <title>Get started</title>
+            <a href="Overview.topic" type="idea" summary="Write a short summary."/>
+            <a href="Administration.topic" type="computer" summary="Write a short summary"/>
+        </primary>
+
+        <!--    Add several topics that are less important or are relevant only for advanced/experienced users.    -->
+        <secondary>
+            <title>CAE Crew Management suite</title>
+            <a href="Configure.topic" type="settings" summary="Write a short summary."/>
+            <a href="Crew-applications.topic" type="community" summary="With a custom card summary"/>
+            <a href="Aircraft-applications.topic" type="start" summary="With a custom card summary"/>
+            <a href="Executive-dashboard.topic" type="data" summary="With a custom card summary"/>
+        </secondary>
+
+        <!--    Optionally add additional cards and links to topics that are not in this section but may be relevant.    -->
+        <misc>
+            <cards narrow="true">
+                <title>Explore advanced features</title>
+                <a href="CAE-CrewManagement-reports.topic" type="" summary="Write a short summary."/>
+                <a href="Job-Engine.topic" type="" summary="With a custom card summary"/>
+                <a href="Regulatory-compliance-rules.topic" type="" summary="With a custom card summary"/>
+                <a href="Release-notes.topic" type="" summary="With a custom card summary"/>
+            </cards>
+
+            <links>
+                <group>
+                    <title>Get help</title>
+                    <a href="How-To-articles.topic" summary="Write a short summary."/>
+                    <a href="Troubleshooting.topic" summary="Write a short summary."/>
+                    <a href="Technical-guides.topic" summary="Write a short summary."/>
+                    <a href="Support.topic" summary="Write a short summary."/>
+                </group>
+            </links>
+        </misc>
+    </section-starting-page>
+
+</topic>

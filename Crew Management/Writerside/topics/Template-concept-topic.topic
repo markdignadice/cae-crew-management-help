@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Template: concept topic" id="Template-concept-topic">
+
+    <p>Definition:
+        What is this?...
+        Why should I care about this? (optional)...
+    </p>
+    <p>Statement of the meaning of a term, phrase or word, or a description of the concept's fundamental characteristics or scope. An effective definition combines three vital components and uses this specific formula:
+
+
+        A [name of concept] is a [name of the category to which that concept belongs], that
+
+        [key attribute]
+
+        [key attribute], and
+
+        [key attribute].
+
+        Note: Key attributes describe the item but also set it apart from similar items.
+    </p>
+
+    <p>Examples (optional): An example is an instance that is representative of the concept. Examples can be text, graphics, or a combination of text and graphics.</p>
+
+    <p>Contrast table (optional): Show the differences between two concepts for the purpose of explanation or clarification.</p>
+        <table>
+            <tr>
+                <td>Concept 1</td>
+                <td>Concept 2</td>
+            </tr>
+            <tr>
+                <td>Attribute A of concept 1</td>
+                <td>Attribute B of concept 1</td>
+            </tr>
+            <tr>
+                <td>Attribute A of concept 2</td>
+                <td>Attribute B of concept 2</td>
+            </tr>
+        </table>
+
+        <p>Analogy (optional): An analogy is a comparison between one thing and another, typically for the purpose of
+            explanation or clarification.
+
+            To structure an analogy:
+
+            (1) state the unfamiliar item
+
+            (2) include the key differentiator where possible, and
+
+            (3)state the familiar item.
+        </p>
+</topic>

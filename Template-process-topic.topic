@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Template: process topic" id="Template-process-topic">
+
+    <p>Summary:
+        Who or what is involved?...
+        What is the outcome?...
+        How long does the process take, if relevant?...
+    </p>
+    <p>Actor or system</p>
+    <list type="decimal" start="1">
+        <li>Action</li>
+        <li>Action</li>
+        <li>Action</li>
+    </list>
+    <p>Actor or system</p>
+    <list type="decimal" start="4">
+        <li>Action</li>
+        <li>Action</li>
+        <li>Action</li>
+    </list>
+    <p>Actor or system</p>
+    <list type="decimal" start="7">
+        <li>Action</li>
+    </list>
+    <table>
+        <tr><td>When...</td><td>Then...</td></tr>
+        <tr><td>When scenario 1</td><td>Then scenario 1</td></tr>
+        <tr><td>When scenario 2</td><td>Then scenario 2</td></tr>
+        <tr><td>When scenario 3</td><td>Then scenario 3</td></tr>
+    </table>
+    <list type="decimal" start="8">
+        <li>Action</li>
+        <li>Action</li>
+    </list>
+    <p>Context (optional): Context block includes information relevant to the process that is not covered in another topic. Write context to help readers better understand the process. If the context information is critical to the process and is already written in another topic, refer the reader to the relevant topic from the context block.</p>
+
+    <p>Result (optional): Results explains the outcome of the process. Write result blocks only when the information provides valuable direction to the reader, or the information is not obvious from the title or other content blocks.</p>
+
+    <p>Example (optional): Include an illustration that helps the user better understand the process.</p>
+
+</topic>
